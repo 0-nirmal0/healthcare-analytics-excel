@@ -40,19 +40,21 @@ This structure allows for practicing **time-based analysis, financial analysis, 
 
 ---
 
-## ❓ 10 Essential Practice Questions
+## ❓ Analysis
 
 These are analytics-style questions to solve in Excel.  
-Each question has a placeholder **solution area** (where I will add formulas, and pivot table steps).  
+Each question has a placeholder **analysis/docs area** (where I will add formulas, and pivot table steps).  
 
-### Top 10 Patients by Treatment Cost (Highest Spenders)
+### 1.Top 10 Patients by Treatment Cost (Highest Spenders)
 
 Here is a preview of the Excel analysis:
 ![Top 10 Patients by Treatment Cost](docs/screenshots/top10_cost_spenders.png)
 
 
-2. **Which 5 doctors generated the highest total billing?**  
-   _Solution: (Pivot + sort + chart)_
+### 2.Average Treatment Costs by Treatment Type
+
+Here is a preview of the Excel analysis:
+![Average Treatment Costs, Categorized by Treatment Type](docs\screenshots\Avg_treat_cost.png)
 
 3. **What is the trend of patient admissions by month in 2023?**  
    _Solution: (Pivot table grouped by month)_
