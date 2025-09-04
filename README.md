@@ -45,8 +45,11 @@ This structure allows for practicing **time-based analysis, financial analysis, 
 These are analytics-style questions to solve in Excel.  
 Each question has a placeholder **solution area** (where I will add formulas, screenshots, and pivot table steps).  
 
-1. **What is the average patient bill amount by department?**  
-   _Solution: (Pivot table or `AVERAGEIFS`)_
+### Top 10 Patients by Treatment Cost (Highest Spenders)
+
+Here is a preview of the Excel analysis:
+![Top 10 Patients by Treatment Cost](docs/screenshots/top10_cost_spenders.png)
+
 
 2. **Which 5 doctors generated the highest total billing?**  
    _Solution: (Pivot + sort + chart)_
