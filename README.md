@@ -59,7 +59,7 @@ Here is a preview of the Excel analysis:
 ### 3.Revenue breakdown by payment method
 
 Here is a preview of the Excel analysis:
-![Top 10 Patients by Treatment Cost](docs/screenshots/docs/screenshots/Sum_Treat_Cos_Pay_Met.png)
+![Top 10 Patients by Treatment Cost](docs/screenshots/Sum_Treat_Cos_Pay_Met.png)
 
 4. **How many patients used insurance vs. self-pay?**  
    _Solution: (Pivot + pie chart)_
