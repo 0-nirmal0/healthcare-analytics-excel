@@ -54,7 +54,7 @@ Here is a preview of the Excel analysis:
 ### 2.Average Treatment Costs by Treatment Type
 
 Here is a preview of the Excel analysis:
-![Average Treatment Costs, Categorized by Treatment Type](docs\screenshots\Avg_treat_cost.png)
+![Average Treatment Costs, Categorized by Treatment Type](docs/screenshots/Avg_treat_cost.png)
 
 3. **What is the trend of patient admissions by month in 2023?**  
    _Solution: (Pivot table grouped by month)_
