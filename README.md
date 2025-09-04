@@ -43,7 +43,7 @@ This structure allows for practicing **time-based analysis, financial analysis, 
 ## ❓ 10 Essential Practice Questions
 
 These are analytics-style questions to solve in Excel.  
-Each question has a placeholder **solution area** (where I will add formulas, screenshots, and pivot table steps).  
+Each question has a placeholder **solution area** (where I will add formulas, and pivot table steps).  
 
 ### Top 10 Patients by Treatment Cost (Highest Spenders)
 
