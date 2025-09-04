@@ -56,8 +56,10 @@ Here is a preview of the Excel analysis:
 Here is a preview of the Excel analysis:
 ![Average Treatment Costs, Categorized by Treatment Type](docs/screenshots/Avg_treat_cost.png)
 
-3. **What is the trend of patient admissions by month in 2023?**  
-   _Solution: (Pivot table grouped by month)_
+### 3.Revenue breakdown by payment method
+
+Here is a preview of the Excel analysis:
+![Top 10 Patients by Treatment Cost](docs/screenshots/docs/screenshots/Sum_Treat_Cos_Pay_Met.png)
 
 4. **How many patients used insurance vs. self-pay?**  
    _Solution: (Pivot + pie chart)_
