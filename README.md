@@ -48,7 +48,7 @@ Each question has a placeholder **analysis/docs area** (where I will add formula
 ### 1.Top 10 Patients by Treatment Cost (Highest Spenders)
 
 Here is a preview of the Excel analysis:
-![Top 10 Patients by Treatment Cost](docs/screenshots/top10_cost_spenders.png)
+![Top 10 Patients by Treatment Cost](docs/screenshots/top10_cost_spender.png)
 
 
 ### 2.Average Treatment Costs by Treatment Type
