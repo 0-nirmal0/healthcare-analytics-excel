@@ -66,8 +66,12 @@ Here is a preview of the Excel analysis:
 Here is a preview of the Excel analysis: 
 ![Age group analysis](docs/screenshots/Age_group_analysis.png)
 
-5. **Which diagnosis has the longest average length of stay?**  
-   _Solution: (Pivot + calculated field)_
+### 5.Find the insurance provider of a patient when their Patient ID is entered 
+
+Here is a preview of the Excel analysis: 
+![Patient Insurance](docs/screenshots/patient_insurance.png)
+
+Here is a preview of the Excel analysis: 
 
 6. **Find patients admitted in January 2023 with bills > $5,000.**  
    _Solution: (`FILTER` or advanced filter)_
