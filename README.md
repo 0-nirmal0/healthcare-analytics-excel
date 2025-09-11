@@ -71,10 +71,11 @@ Here is a preview of the Excel analysis:
 Here is a preview of the Excel analysis: 
 ![Patient Insurance](docs/screenshots/patient_insurance.png)
 
-Here is a preview of the Excel analysis: 
+### 6.Physician with the highest patient load 
+  
+Here is a preview of the Excel analysis:   
+![Patient Insurance](docs/screenshots/largest_num_of_visits.png)
 
-6. **Find patients admitted in January 2023 with bills > $5,000.**  
-   _Solution: (`FILTER` or advanced filter)_
 
 7. **What is the distribution of patients by age group (e.g., 0–18, 19–35, 36–60, 60+)?**  
    _Solution: (Helper column + Pivot chart)_
