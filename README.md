@@ -22,19 +22,10 @@ It demonstrates both **technical Excel skills** and the ability to structure a p
 **Type:** Fully fictional (no real patient data used)  
 
 ### Key Columns
-- `Patient_ID`
-- `Age`
-- `Gender`
-- `Admission_Date`
-- `Discharge_Date`
-- `Department`
-- `Doctor`
-- `Diagnosis`
-- `Treatment`
-- `Length_of_Stay`
-- `Bill_Amount`
-- `Payment_Method`
-- `Insurance_Provider`
+- `Patient_ID`      - `Gender`             - `Age`
+- `Date of Visit`   - `Department`         - `Physician Name`   
+- `Diagnosis`       - `Treatment Type`     - `Treatment Cost` 
+- `Payment Method`  - `Follow-up Required` - `Patient Satisfaction Rating`
 
 This structure allows for practicing **time-based analysis, financial analysis, and patient trends**.
 
