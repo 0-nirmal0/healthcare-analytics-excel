@@ -72,8 +72,10 @@ Here is a preview of the Excel analysis:
 Here is a preview of the Excel analysis:   
 ![Patient Insurance](docs/screenshots/FollowUp.png)
 
-8. **Which insurance provider covers the highest total billing?**  
-   _Solution: (Pivot table by Insurance Provider)_
+### 8.Lookup: return department for a given Patient ID
+
+Here is a preview of the Excel analysis:   
+![Patient Insurance](docs/screenshots/return_patient’s_dept_id.png)
 
 9. **Use a lookup formula to return the department of a given patient ID.**  
    _Solution: (`XLOOKUP` or `VLOOKUP`)_
