@@ -76,9 +76,10 @@ Here is a preview of the Excel analysis:
 Here is a preview of the Excel analysis:   
 ![Patient Insurance](docs/screenshots/largest_num_of_visits.png)
 
+### 7.Follow-up required rate by department
 
-7. **What is the distribution of patients by age group (e.g., 0–18, 19–35, 36–60, 60+)?**  
-   _Solution: (Helper column + Pivot chart)_
+Here is a preview of the Excel analysis:   
+![Patient Insurance](docs/screenshots/FollowUp.png)
 
 8. **Which insurance provider covers the highest total billing?**  
    _Solution: (Pivot table by Insurance Provider)_
