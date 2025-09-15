@@ -1,9 +1,9 @@
-# 📊 Healthcare Analytics (Excel Project)
+# Healthcare Analytics (Excel Project)
 
 This repository contains a **fictional healthcare dataset with 10,000 rows**.  
 The dataset was created for practicing **Excel data analytics** and to showcase knowledge in:
 
-- Excel formulas & functions (`SUMIFS`, `IF`, `XLOOKUP`, `TEXT`, `DATE`, etc.)
+- Excel formulas & functions (`SUMIFS`, `IF`, `VLOOKUP`, `TEXT`, `DATE`, etc.)
 - Pivot tables & pivot charts
 - Conditional formatting
 - Data cleaning & transformation
@@ -13,9 +13,25 @@ The dataset was created for practicing **Excel data analytics** and to showcase 
 The project is part of my preparation for the **Google Data Analytics Apprenticeship (March 2026)**.  
 It demonstrates both **technical Excel skills** and the ability to structure a professional analytics project.
 
----
+## Project Goal
 
-## 📂 Dataset Information
+This repository is not just a dataset — it is a portfolio project designed to:
+1. Demonstrate advanced Excel skills.
+2. Practice storytelling through dashboards.
+
+## Repo Structure
+- healthcare-analytics-excel/
+  - analysis/
+  - dashboard/
+    - healthcare_dashboard.xlsx
+  - data/
+    - healthcare_dataset_raw.xlsx
+    - healthcare_dataset_cleaned.xlsx
+  - docs/
+    - screenshots/
+  - README.md
+
+## Dataset Information
 
 **File:** `data/healthcare_dataset.xlsx`  
 **Rows:** ~10,000  
@@ -29,9 +45,7 @@ It demonstrates both **technical Excel skills** and the ability to structure a p
 
 This structure allows for practicing **time-based analysis, financial analysis, and patient trends**.
 
----
-
-## ❓ Analysis
+## Analysis
 
 These are analytics-style questions to solve in Excel.  
 Each question has a placeholder **analysis/docs area** (where I will add formulas, and pivot table steps).  
@@ -65,56 +79,33 @@ Here is a preview of the Excel analysis:
 ### Physician with the highest patient load 
   
 Here is a preview of the Excel analysis:   
-![Patient Insurance](docs/screenshots/largest_num_of_visits.png)
+![Largest number of visits](docs/screenshots/largest_num_of_visits.png)
 
 ### Follow-up required rate by department
 
 Here is a preview of the Excel analysis:   
-![Patient Insurance](docs/screenshots/FollowUp.png)
+![Follow Up](docs/screenshots/FollowUp.png)
 
 ### Lookup: return department for a given Patient ID
 
 Here is a preview of the Excel analysis:   
-![Patient Insurance](docs/screenshots/return_patient’s_dept_id.png)
+![Department](docs/screenshots/return_patient’s_dept_id.png)
 
-### which departments are driving the most treatment costs
+## Dashboard Preview  
 
-Here is a preview of the Excel analysis:   
-![Patient Insurance](docs/screenshots/return_patient’s_dept_id.png)
+- Below is a preview of the interactive Excel dashboard:  
+![Dashboard Preview](docs/screenshots/healthcare_dashboard.png)
 
----
+- Check the file in the  
+[`dashboard/`](dashboard/) folder:  
 
-## 📊 Dashboard Ideas
+- `healthcare_dashboard.xlsx`
 
-I plan to build an **Excel dashboard** using slicers, pivot charts, and KPIs.  
+## Key Insights  
 
-Key features:
-- **Admissions Overview**: Monthly admissions trend, top 5 diagnoses.  
-- **Financial Analysis**: Department-wise revenue, top doctors by billing.  
-- **Patient Demographics**: Gender split, age group distribution.  
-- **Insurance Insights**: Insurance vs. self-pay analysis, top insurance providers.  
-- **Length of Stay Analysis**: Average stay by department/diagnosis.  
+1. **Oncology and Neurology drive the highest treatment costs**, mainly due to expensive procedures like Radiation Therapy and Chemotherapy — making them prime areas for cost optimization.  
 
-Example layout:
-- **Top row** → KPIs (Total Patients, Avg Bill, Avg Stay)  
-- **Left side** → Slicers (Year, Department, Payment Method)  
-- **Center** → Pivot charts (admissions trend, billing distribution)  
-- **Right side** → Tables (top doctors, insurance breakdown)  
+2. **Payment methods show that Insurance and Government Aid cover most treatments**, while Self-pay remains limited — highlighting reliance on institutional funding over out-of-pocket care.  
 
----
+3. **A small group of high-cost patients contributes disproportionately to total revenue**, underlining the importance of targeted care management for resource allocation.  
 
-## 📸 Adding Images
-
-I will add:
-- **Screenshots of pivot tables & formulas** in the `images/` folder  
-- **Final dashboard screenshot** to showcase my work  
-
-Example:
-```markdown
-![Admissions Trend](images/admissions_trend.png)
-
-## 🚀 Project Goal
-
-This repository is not just a dataset — it is a portfolio project designed to:
-1. Demonstrate advanced Excel skills.
-2. Practice storytelling through dashboards.
