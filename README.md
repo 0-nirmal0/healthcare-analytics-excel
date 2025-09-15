@@ -36,52 +36,51 @@ This structure allows for practicing **time-based analysis, financial analysis, 
 These are analytics-style questions to solve in Excel.  
 Each question has a placeholder **analysis/docs area** (where I will add formulas, and pivot table steps).  
 
-### 1.Top 10 Patients by Treatment Cost (Highest Spenders)
+### Top 10 Patients by Treatment Cost (Highest Spenders)
 
 Here is a preview of the Excel analysis:
 ![Top 10 Patients by Treatment Cost](docs/screenshots/top10_cost_spenders.png)
 
 
-### 2.Average Treatment Costs by Treatment Type
+### Average Treatment Costs by Treatment Type
 
 Here is a preview of the Excel analysis:
 ![Average Treatment Costs, Categorized by Treatment Type](docs/screenshots/Avg_treat_cost.png)
 
-### 3.Revenue breakdown by payment method
+### Revenue breakdown by payment method
 
 Here is a preview of the Excel analysis:
 ![Top 10 Patients by Treatment Cost](docs/screenshots/Sum_Treat_Cos_Pay_Met.png)
 
-### 4.Age group analysis
+### Age group analysis
 
 Here is a preview of the Excel analysis: 
 ![Age group analysis](docs/screenshots/Age_group_analysis.png)
 
-### 5.Find the insurance provider of a patient when their Patient ID is entered 
+### Find the insurance provider of a patient when their Patient ID is entered 
 
 Here is a preview of the Excel analysis: 
 ![Patient Insurance](docs/screenshots/patient_insurance.png)
 
-### 6.Physician with the highest patient load 
+### Physician with the highest patient load 
   
 Here is a preview of the Excel analysis:   
 ![Patient Insurance](docs/screenshots/largest_num_of_visits.png)
 
-### 7.Follow-up required rate by department
+### Follow-up required rate by department
 
 Here is a preview of the Excel analysis:   
 ![Patient Insurance](docs/screenshots/FollowUp.png)
 
-### 8.Lookup: return department for a given Patient ID
+### Lookup: return department for a given Patient ID
 
 Here is a preview of the Excel analysis:   
 ![Patient Insurance](docs/screenshots/return_patient’s_dept_id.png)
 
-9. **Use a lookup formula to return the department of a given patient ID.**  
-   _Solution: (`XLOOKUP` or `VLOOKUP`)_
+### which departments are driving the most treatment costs
 
-10. **Highlight bills above the department average using conditional formatting.**  
-    _Solution: (Conditional formatting with formula rule)_
+Here is a preview of the Excel analysis:   
+![Patient Insurance](docs/screenshots/return_patient’s_dept_id.png)
 
 ---
 
