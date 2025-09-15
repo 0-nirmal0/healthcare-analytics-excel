@@ -1,9 +1,9 @@
-# Healthcare Analytics (Excel Project)
+# Healthcare Analytics
 
 This repository contains a **fictional healthcare dataset with 10,000 rows**.  
 The dataset was created for practicing **Excel data analytics** and to showcase knowledge in:
 
-- Excel formulas & functions (`SUMIFS`, `IF`, `VLOOKUP`, `TEXT`, `DATE`, etc.)
+- Excel formulas & functions (`SUMIFS`, `IF`, `VLOOKUP`, etc.)
 - Pivot tables & pivot charts
 - Conditional formatting
 - Data cleaning & transformation
@@ -93,7 +93,7 @@ Here is a preview of the Excel analysis:
 
 ## Dashboard Preview  
 
-- Below is a preview of the interactive Excel dashboard:  
+- Below is a preview of the Excel dashboard:  
 ![Dashboard Preview](docs/screenshots/healthcare_dashboard.png)
 
 - Check the file in the  
