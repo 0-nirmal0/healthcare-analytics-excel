@@ -103,9 +103,7 @@ Here is a preview of the Excel analysis:
 
 ## Key Insights  
 
-1. **Oncology and Neurology drive the highest treatment costs**, mainly due to expensive procedures like Radiation Therapy and Chemotherapy — making them prime areas for cost optimization.  
+- **Payment methods show that Insurance and Government Aid cover most treatments**, while Self-pay remains limited — highlighting reliance on institutional funding over out-of-pocket care.  
 
-2. **Payment methods show that Insurance and Government Aid cover most treatments**, while Self-pay remains limited — highlighting reliance on institutional funding over out-of-pocket care.  
-
-3. **A small group of high-cost patients contributes disproportionately to total revenue**, underlining the importance of targeted care management for resource allocation.  
+- **A small group of high-cost patients contributes disproportionately to total revenue**, underlining the importance of targeted care management for resource allocation.  
 
